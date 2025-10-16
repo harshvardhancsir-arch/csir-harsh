@@ -4,12 +4,9 @@ pathlib
  tempfile
  time
 traceback
-
  pandas 
  streamlit 
- pdfminer
  pdf2image 
  pytesseract
  openpyxl 
- openpyxl
- openpyxl
+ pdfminer.six
