@@ -1,0 +1,15 @@
+pathlib 
+ re
+ io
+ tempfile
+ time
+traceback
+
+ pandas 
+ streamlit 
+ pdfminer
+ pdf2image 
+ pytesseract
+ openpyxl 
+ openpyxl
+ openpyxl
